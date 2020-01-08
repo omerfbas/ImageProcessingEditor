@@ -1,0 +1,70 @@
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.exe.config
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.exe
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.pdb
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.csprojResolveAssemblyReference.cache
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.Properties.Resources.resources
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.csproj.GenerateResource.Cache
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.exe
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.pdb
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\GrayScaling.Form1.resources
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RightMirror1.Form1.resources
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RightMirror.Form1.resources
+C:\Users\omerbas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\NegativeImage.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.exe.config
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.exe
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.pdb
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.exe
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.pdb
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.csprojResolveAssemblyReference.cache
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\NegativeImage.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.Resize.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RightMirror1.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RightMirror.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\GrayScaling.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.Properties.Resources.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.csproj.GenerateResource.Cache
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ManuelResize.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SayisalResize.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ColorChannel.Form1.resources
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.exe.config
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.exe
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.pdb
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.csprojResolveAssemblyReference.cache
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SayisalResize.Form1.resources
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ColorChannel.Form1.resources
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ManuelResize.Form1.resources
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\NegativeImage.Form1.resources
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.Resize.resources
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RightMirror1.Form1.resources
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RightMirror.Form1.resources
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\GrayScaling.Form1.resources
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.Properties.Resources.resources
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.csproj.GenerateResource.Cache
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.exe
+C:\Users\Omerhan\Desktop\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.pdb
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.exe.config
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.exe
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1YENI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.pdb
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.exe.config
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.exe
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.pdb
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.exe
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Arayuz.pdb
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.csprojResolveAssemblyReference.cache
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SayisalResize.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ColorChannel.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ManuelResize.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\NegativeImage.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.Resize.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RightMirror1.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RightMirror.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\GrayScaling.Form1.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.Properties.Resources.resources
+C:\Users\omerbas\Desktop\PROJE\YAZLAB\WindowsFormsApplication1 SON\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Arayuz.csproj.GenerateResource.Cache
+C:\Users\omerbas\Desktop\PROJE\YAZLAB 1.PROJE\GORUNTU ISLEME EDITORU SON\GORUNTU ISLEME EDITORU\WindowsFormsApplication1\bin\Debug\Arayuz.exe.config
+C:\Users\omerbas\Desktop\PROJE\YAZLAB 1.PROJE\GORUNTU ISLEME EDITORU SON\GORUNTU ISLEME EDITORU\WindowsFormsApplication1\obj\Debug\Arayuz.exe
+C:\Users\omerbas\Desktop\PROJE\YAZLAB 1.PROJE\GORUNTU ISLEME EDITORU SON\GORUNTU ISLEME EDITORU\WindowsFormsApplication1\obj\Debug\Arayuz.pdb
