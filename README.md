@@ -8,12 +8,12 @@
 
  <hr>
 
- <b><h3>------------</b></h3> 
+ <b><h3>Negative Image</b></h3> 
 ![header image](https://github.com/omerfbas/ImageProcessingEditor/blob/master/Images/2NegativeImage.png)
 
  <hr>
 
- <b><h3>------------</b></h3> 
+ <h3><b>RGB Channel</b></h3> 
 ![header image](https://github.com/omerfbas/ImageProcessingEditor/blob/master/Images/3RGBChannel.png)
 
  <hr>
