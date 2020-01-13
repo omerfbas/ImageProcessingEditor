@@ -1,14 +1,17 @@
 # ImageProcessingEditor
  <hr>
- Windows Forms Application using C#
+ 
+ <h2> Windows Forms Application using C# </h2>
  <hr>
  
-  <b><h3>Home Screen</b></h3> 
+ <h3>Home Screen</h3> 
+  
 ![header image](https://github.com/omerfbas/ImageProcessingEditor/blob/master/Images/1Menu.png)
 
  <hr>
 
- <b><h3>Negative Image</b></h3> 
+ <h3>Negative Image</h3>
+ 
 ![header image](https://github.com/omerfbas/ImageProcessingEditor/blob/master/Images/2NegativeImage.png)
 
  <hr>
@@ -25,7 +28,8 @@
 
  <hr>
  
- <b><h3>------------</b></h3> 
+ <h3>Digital Resize</h3> 
+ 
 ![header image](https://github.com/omerfbas/ImageProcessingEditor/blob/master/Images/5DigitalResize.png)
 
  <hr>
