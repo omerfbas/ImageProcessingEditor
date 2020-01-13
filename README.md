@@ -19,7 +19,8 @@
 
  <hr>
  
- <b><h3>------------</b></h3> 
+ <h3>Gray Scaling</h3> 
+ 
 ![header image](https://github.com/omerfbas/ImageProcessingEditor/blob/master/Images/4GrayScaling.png)
 
  <hr>
