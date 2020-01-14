@@ -16,7 +16,7 @@
 
  <hr>
 
- <h3><b>RGB Channel</b></h3> 
+ <h3>RGB Channel</h3> 
  
 ![header image](https://github.com/omerfbas/ImageProcessingEditor/blob/master/Images/3RGBChannel.png)
 
